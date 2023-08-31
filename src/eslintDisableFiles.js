@@ -17,6 +17,4 @@ const eslintDisableFiles = (rootDir = './', pattern = /\.[cm]?[jt]sx?$/) => {
   });
 };
 
-eslintDisableFiles();
-
 export default eslintDisableFiles;
