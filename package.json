@@ -1,6 +1,6 @@
 {
   "name": "@borisshulyak/eslint-disable-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
