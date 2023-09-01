@@ -1,5 +1,6 @@
 {
   "name": "@borisshulyak/eslint-disable-files",
+  "description": "The package that would help you to add the `/* eslint-disable */` for each file",
   "version": "1.0.2",
   "type": "module",
   "main": "src/index.js",
